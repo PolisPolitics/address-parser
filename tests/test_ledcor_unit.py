@@ -16,7 +16,7 @@ def writeAddresses(filename, data):
 class TestLedcoreUnit(unittest.TestCase):
 
     def test_lecore_addresses_with_unit(self):
-        addrs = readAddresses('measure_performance/test_data/lecore_unit_test.csv')
+        addrs = readAddresses('measure_performance/test_data/ledcor_unit_test.csv')
         parsed = [(addr,usaddress.parse(addr)) for addr in addrs]
 
         result = filter(lambda item: not any(c[1] == 'OccupancyIdentifier' for c in item[1]), parsed)
