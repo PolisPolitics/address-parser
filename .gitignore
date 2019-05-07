@@ -57,6 +57,7 @@ docs/_build/
 *.txt
 
 !/measure_performance/test_data/ledcor*.csv
+!/measure_performance/test_data/beto*.csv
 
 # temp files
 *~

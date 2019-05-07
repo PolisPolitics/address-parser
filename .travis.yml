@@ -9,7 +9,7 @@ install:
   - pip install --upgrade pip
   - pip install --upgrade -r requirements.txt
   - pip install -e .
-  - parserator train training/labeled.xml,training/ledcor_addresses.xml usaddress
+  - parserator train training/labeled.xml,training/ledcor_addresses.xml,training/aptos.xml,training/elpaso.xml usaddress
 
 script:
   - nosetests --with-coverage --cover-package=usaddress

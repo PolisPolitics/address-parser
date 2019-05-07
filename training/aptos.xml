@@ -1,0 +1,10 @@
+<AddressCollection>
+  <AddressString><AddressNumber>1860</AddressNumber> <StreetName>Via</StreetName> <StreetName>Pacifica</StreetName> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>304</AddressNumber> <StreetName>Bowsprit</StreetName> <StreetNamePostType>Dr</StreetNamePostType> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>1800</AddressNumber> <StreetName>Cabo</StreetName> <StreetNamePostType>Ct</StreetNamePostType> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>117</AddressNumber> <StreetName>Via</StreetName> <StreetName>Trinita</StreetName> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>126</AddressNumber> <StreetName>Via</StreetName> <StreetName>Lantana</StreetName> <PlaceName>Aptos</PlaceName> <PlaceName>Santa</PlaceName> <PlaceName>Cruz</PlaceName> <PlaceName>County</PlaceName> <StateName>California</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>142</AddressNumber> <StreetName>Via</StreetName> <StreetName>Lantana</StreetName> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>2277</AddressNumber> <StreetName>Dolphin</StreetName> <StreetNamePostType>Dr</StreetNamePostType> <PlaceName>Aptos</PlaceName> <StateName>CA</StateName> <ZipCode>95003</ZipCode></AddressString>
+  <AddressString><AddressNumber>2235</AddressNumber> <StreetName>Dolphin</StreetName> <StreetNamePostType>Drive</StreetNamePostType> <PlaceName>Aptos</PlaceName> <PlaceName>Santa</PlaceName> <PlaceName>Cruz</PlaceName> <PlaceName>County</PlaceName> <StateName>California</StateName> <ZipCode>95003</ZipCode></AddressString>
+</AddressCollection>

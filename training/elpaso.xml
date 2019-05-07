@@ -1,0 +1,7 @@
+<AddressCollection>
+  <AddressString><AddressNumber>517</AddressNumber> <StreetName>Corto</StreetName> <StreetNamePostType>Way</StreetNamePostType> <PlaceName>El</PlaceName> <PlaceName>Paso</PlaceName> <StateName>TX</StateName> <ZipCode>79902</ZipCode></AddressString>
+  <AddressString><AddressNumber>311</AddressNumber> <StreetName>Fewel</StreetName> <StreetNamePostType>St</StreetNamePostType> <PlaceName>El</PlaceName> <PlaceName>Paso</PlaceName> <StateName>TX</StateName> <ZipCode>79902</ZipCode></AddressString>
+  <AddressString><AddressNumber>811</AddressNumber> <StreetNamePreDirectional>N</StreetNamePreDirectional> <StreetName>El</StreetName> <StreetName>Paso</StreetName> <StreetNamePostType>St</StreetNamePostType> <PlaceName>El</PlaceName> <PlaceName>Paso</PlaceName> <StateName>TX</StateName> <ZipCode>79902</ZipCode></AddressString>
+  <AddressString><AddressNumber>1005</AddressNumber> <StreetName>Mundy</StreetName> <StreetNamePostType>Dr</StreetNamePostType> <PlaceName>El</PlaceName> <PlaceName>Paso</PlaceName> <StateName>TX</StateName> <ZipCode>79902</ZipCode></AddressString>
+  <AddressString><AddressNumber>1033</AddressNumber> <StreetName>Upson</StreetName> <StreetNamePostType>Dr</StreetNamePostType> <PlaceName>El</PlaceName> <PlaceName>Paso</PlaceName> <StateName>TX</StateName> <ZipCode>79902</ZipCode></AddressString>
+</AddressCollection>
